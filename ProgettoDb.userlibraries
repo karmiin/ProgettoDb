@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="OwlCarousel2">
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_OwlCarousel2_2.3.4_assets_owl.carousel.css" />
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_OwlCarousel2_2.3.4_owl.carousel.js" />
+  </library>
+  <library name="bootstrap">
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/__maxcdn.bootstrapcdn.com_bootstrap_4.0.0_js_bootstrap.js" />
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@5.0.0-beta1_dist_css_bootstrap.css" />
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@5.0.0-beta1_dist_js_bootstrap.bundle.js" />
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@5.3.3_dist_css_bootstrap.css" />
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@5.3.3_dist_js_bootstrap.js" />
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_4.5.2_css_bootstrap.css" />
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_4.5.2_js_bootstrap.js" />
+  </library>
+  <library name="all">
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_use.fontawesome.com_releases_v5.7.2_css_all.css" />
+  </library>
+  <library name="jquery">
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_3.2.1_jquery.js" />
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.5.1_jquery.js" />
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.2.1_jquery.js" />
+  </library>
+  <library name="font-awesome">
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_font-awesome@4.7.0_css_font-awesome.css" />
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_font-awesome_6.6.0_css_all.css" />
+  </library>
+  <library name="popper.min.js">
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_popper.min.js.js" />
+  </library>
+  <library name="popper.js">
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_popper.js@1.16.0_dist_umd_popper.js" />
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_cdn.jsdelivr.net_npm_popper.js@1.16.1_dist_umd_popper.js" />
+  </library>
+  <library name="@popperjs">
+    <archive path="C:/Users/karmi/AppData/Roaming/JetBrains/IntelliJIdea2024.1/javascript/extLibs/http_unpkg.com_@popperjs_core@2.js" />
+  </library>
+</eclipse-userlibraries>
+
