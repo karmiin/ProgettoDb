@@ -107,7 +107,7 @@ CREATE TABLE Acquisto (
 );
 
 CREATE TABLE Cliente (
-    codiceFiscale VARCHAR(16) PRIMARY KEY NOT NULL,
+    codiceFiscale CHAR(16) PRIMARY KEY NOT NULL,
     dataDiNascita DATE NOT NULL,
     nome VARCHAR(50) NOT NULL,
     cognome VARCHAR(50) NOT NULL
@@ -115,7 +115,7 @@ CREATE TABLE Cliente (
 
 CREATE TABLE Effettua (
     acquisto char(6) NOT NULL,
-    cliente VARCHAR(16) NOT NULL,
+    cliente CHAR(16) NOT NULL,
     PRIMARY KEY (acquisto, cliente),
     FOREIGN KEY (acquisto) REFERENCES Acquisto(numeroOrdine) ON DELETE CASCADE ON UPDATE CASCADE,
     FOREIGN KEY (cliente) REFERENCES Cliente(codiceFiscale) ON DELETE CASCADE ON UPDATE CASCADE
