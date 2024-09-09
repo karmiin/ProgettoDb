@@ -46,6 +46,11 @@ public class Main {
                 case 1: // inserisci un cliente
                     System.out.println("Inserisci codice fiscale:");
                     String codiceFiscale = scanner.nextLine();
+                    //controlla se codice fiscale ha 16 caratteri
+                    if (codiceFiscale.length() != 16) {
+                        System.out.println("Il codice fiscale deve avere 16 caratteri.");
+                        break;
+                    }
                     System.out.println("Inserisci nome:");
                     String nome = scanner.nextLine();
                     System.out.println("Inserisci cognome:");
